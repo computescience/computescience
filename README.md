@@ -2,7 +2,6 @@
 - 👀 I’m interested in artificial intelligence applications in materials discovery.
 - 🌱 I’m working on XGBoost in experimental recommendation system.
 
-- 
 
 <!---
 computescience/computescience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
