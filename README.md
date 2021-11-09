@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @computescience
-- 👀 I’m interested in artificial intelligence applications in materials discovery.
-- 🌱 I’m working on XGBoost in experimental recommendation system.
+- 👀 I’m interested in artificial intelligence applications in materials discovery including deep learning, machine learning applications in materials sysnthesis and characterizations.
+- 🌱 I’m currently working on XGBoost in experimental recommendation system.
+
 
 
 <!---
